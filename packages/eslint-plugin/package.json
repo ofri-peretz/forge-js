@@ -35,11 +35,11 @@
   "dependencies": {
     "@forge-js/eslint-plugin-utils": "0.0.4",
     "tslib": "^2.3.0",
-    "vitest": "^4.0.4"
+    "vitest": "^4.0.6"
   },
   "devDependencies": {
     "@typescript-eslint/parser": "^8.46.2",
     "@typescript-eslint/rule-tester": "^8.46.2",
-    "vitest": "^4.0.4"
+    "vitest": "^4.0.6"
   }
 }
