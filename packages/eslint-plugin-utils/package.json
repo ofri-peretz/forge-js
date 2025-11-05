@@ -46,6 +46,6 @@
     "tslib": "^2.3.0"
   },
   "devDependencies": {
-    "vitest": "^4.0.4"
+    "vitest": "^4.0.7"
   }
 }
